@@ -1,2 +1,2 @@
 # discrete-structures
-Implementations of various discrete math topics (mostly in python).
+Implementations of various discrete math topics (only in python/python notebooks).
