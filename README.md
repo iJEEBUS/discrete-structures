@@ -1,12 +1,14 @@
 # Discrete Structures
-<ul><b>Python notebook implementations</b>
+<b>Python notebook implementations</b>
+<ul>
   <li>Trees</li>
   <li>Sequences</li>
   <li>Isomorphisms</li>
   <li>Combinations and Permutations</li>
 </ul>
 
-<ul><b>Python file implementations</b>
+<b>Python file implementations</b>
+<ul>
   <li>Trees</li>
   <li>Isomorphisms</li>
 </ul>
